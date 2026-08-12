@@ -4,7 +4,7 @@
 export TWRP_MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni"
 export TWRP_BRANCH="twrp-9.0"
 
-export DT_LINK="https://github.com/MaddIsHere/twrp_android_device_samsung_jadeltechn -b master"
+export DT_LINK="https://github.com/MaddIsHere/twrp_android_device_samsung_jadelte -b master"
 
 export DEVICE="jadeltechn"
 export OEM="samsung"
